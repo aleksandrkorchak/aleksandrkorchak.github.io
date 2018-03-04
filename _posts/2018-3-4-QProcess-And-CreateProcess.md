@@ -3,8 +3,8 @@ layout: post
 title: QProcess и CreateProcess
 ---
 
-Столкнулся с проблемой нежелания QProcess отображать консольное окно при этом
-WinAPI CreateProcess консольное окно отображал без проблем
+Столкнулся с проблемой нежелания QProcess отображать консольное окно, при этом
+WinAPI CreateProcess консольное окно отображает без проблем. В результате решение было найдено и появилась небольшая программка
 
 ![_config.yml]({{ site.baseurl }}/images/config.png)
 
