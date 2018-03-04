@@ -3,7 +3,8 @@ layout: post
 title: QProcess и CreateProcess
 ---
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
+Столкнулся с проблемой нежелания QProcess отображать консольное  при этом
+WinAPI CreateProcess консольное окно отображал без проблем
 
 ![_config.yml]({{ site.baseurl }}/images/config.png)
 
